@@ -26,8 +26,8 @@ def program():
             print("Please enter a valid number.")
 
 def login():
-    username = "admin"
-    password = "password"
+    username = "vac"
+    password = "vac"
     
     max_attempts = 3
     attempts = 0
